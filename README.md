@@ -194,3 +194,16 @@ Also DeepMind -->
 
 Thanks for reading, if you have any suggestions or corrections please submit a
 pull request! And please hit the star button to show your appreciation.
+
+## Citing This Post
+
+If you'd like to cite this article, please use:
+```
+@misc{ayonrinde_2023_awesome_sparse_autoencoders,
+  author = "Kola Ayonrinde",
+  title = "Awesome Sparse Autoencoders",
+  year = 2024,
+  publisher = "GitHub",
+  url = "https://github.com/koayon/awesome-sparse-autoencoders/"
+}
+```
